@@ -12,6 +12,8 @@ namespace ForkKnights.Group3 {
 
     public string GetJobApplication() {
 
+      return "test 1.0";
+
     }
 
   }
